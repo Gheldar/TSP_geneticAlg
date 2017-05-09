@@ -1,0 +1,12 @@
+c:\users\gorgo\documents\visual studio 2015\Projects\TSP_geneticAlg\TSP_geneticAlg\bin\Debug\TSP_geneticAlg.exe.config
+c:\users\gorgo\documents\visual studio 2015\Projects\TSP_geneticAlg\TSP_geneticAlg\bin\Debug\TSP_geneticAlg.exe
+c:\users\gorgo\documents\visual studio 2015\Projects\TSP_geneticAlg\TSP_geneticAlg\bin\Debug\TSP_geneticAlg.pdb
+c:\users\gorgo\documents\visual studio 2015\Projects\TSP_geneticAlg\TSP_geneticAlg\obj\Debug\TSP_geneticAlg.csprojResolveAssemblyReference.cache
+c:\users\gorgo\documents\visual studio 2015\Projects\TSP_geneticAlg\TSP_geneticAlg\obj\Debug\TSP_geneticAlg.exe
+c:\users\gorgo\documents\visual studio 2015\Projects\TSP_geneticAlg\TSP_geneticAlg\obj\Debug\TSP_geneticAlg.pdb
+C:\Users\Gorgo\ΠΑ.ΠΕΙ\Τεχνητή νοημοσύνη\_Εργασία\TSP_geneticAlg\TSP_geneticAlg\bin\Debug\TSP_geneticAlg.exe.config
+C:\Users\Gorgo\ΠΑ.ΠΕΙ\Τεχνητή νοημοσύνη\_Εργασία\TSP_geneticAlg\TSP_geneticAlg\obj\Debug\TSP_geneticAlg.exe
+C:\Users\Gorgo\ΠΑ.ΠΕΙ\Τεχνητή νοημοσύνη\_Εργασία\TSP_geneticAlg\TSP_geneticAlg\obj\Debug\TSP_geneticAlg.pdb
+C:\Users\Gorgo\ΠΑ.ΠΕΙ\Τεχνητή νοημοσύνη\_Εργασία\TSP_geneticAlg\TSP_geneticAlg\bin\Debug\TSP_geneticAlg.exe
+C:\Users\Gorgo\ΠΑ.ΠΕΙ\Τεχνητή νοημοσύνη\_Εργασία\TSP_geneticAlg\TSP_geneticAlg\bin\Debug\TSP_geneticAlg.pdb
+C:\Users\Gorgo\ΠΑ.ΠΕΙ\Τεχνητή νοημοσύνη\_Εργασία\TSP_geneticAlg\TSP_geneticAlg\obj\Debug\TSP_geneticAlg.csprojResolveAssemblyReference.cache
